@@ -1,5 +1,5 @@
 import * as moment from "moment";
-import { SentinelHubWms } from ".";
+import { SentinelHubWms } from "./SentinelHubWmsService";
 import { GeoJsonFeature, GeoJson } from "./interfaces";
 import { WMSParameters } from "./WMSParameters";
 import { ColorFinder } from "./colorPiker";

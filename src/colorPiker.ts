@@ -1,4 +1,4 @@
-import { SentinelHubWms } from "./index";
+import { SentinelHubWms } from "./SentinelHubWmsService";
 import { GeoJson, GeoJsonFeature } from "./interfaces";
 
 declare module IGeoJsonPoint {
